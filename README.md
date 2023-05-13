@@ -8,10 +8,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img align="right" width="100" height="100" src="[https://picsum.photos/100/100](https://github.com/clacy360/clacy360/blob/main/munchlax.gif)">
-![](https://github.com/clacy360/clacy360/blob/main/munchlax.gif)
+<img align="right" width="100" height="100" src="https://github.com/clacy360/clacy360/blob/main/munchlax.gif">
+
 
 <!--
+![](https://github.com/clacy360/clacy360/blob/main/munchlax.gif)
 **clacy360/clacy360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
