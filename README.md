@@ -9,6 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![](https://github.com/clacy360/clacy360/blob/main/munchlax.gif)
+
 <!--
 **clacy360/clacy360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
