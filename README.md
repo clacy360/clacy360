@@ -1,5 +1,5 @@
 
-<img align="right" width="250" height="250" src="https://github.com/clacy360/clacy360/blob/main/snrlx.gif">
+<img align="right" width="350" height="250" src="https://github.com/clacy360/clacy360/blob/main/snrlx.gif">
 
 ### ✿ welcome ✿
 * ⚡ cami!
