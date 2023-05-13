@@ -3,10 +3,10 @@
 
 ### ✿ welcome ✿
 ---  
-* ⚡ cami!
-* ⚡ University of Washington, Bothell
-* ⚡ Computer Science and Software Engineering major  
-* ⚡ Programming everyday  
+* cami!
+* University of Washington, Bothell
+* Computer Science and Software Engineering major  
+* Programming everyday  
 
 
 
