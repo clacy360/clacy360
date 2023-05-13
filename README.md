@@ -2,6 +2,7 @@
 <img align="right" width="450" height="250" src="https://github.com/clacy360/clacy360/blob/main/snrlx.gif">
 
 ### ✿ welcome ✿
+---  
 * ⚡ cami!
 * ⚡ UWB Computer Science and Software Engineering major  
 * ⚡ Programming everyday  
