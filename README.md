@@ -1,5 +1,4 @@
 ### ✿ welcome ✿
----
 <img align="right" width="300" height="300" src="https://github.com/clacy360/clacy360/blob/main/munchlax.gif">
 
 *  🔭 I’m currently working on ...  
@@ -11,7 +10,7 @@
 - 😄 Pronouns: ...  
 - ⚡ Fun fact: ...  
 
-
+---
 
 <!--
 ![](https://github.com/clacy360/clacy360/blob/main/munchlax.gif)
