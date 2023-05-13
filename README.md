@@ -1,5 +1,5 @@
 
-<img align="right" width="300" height="300" src="https://github.com/clacy360/clacy360/blob/main/munchlax.gif">
+<img align="right" width="250" height="250" src="https://github.com/clacy360/clacy360/blob/main/munchlax.gif">
 
 ### ✿ welcome ✿
 *  🔭 I’m currently working on ...  
