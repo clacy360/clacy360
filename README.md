@@ -4,7 +4,8 @@
 ### ✿ welcome ✿
 ---  
 * ⚡ cami!
-* ⚡ UWB Computer Science and Software Engineering major  
+* ⚡ University of Washington, Bothell
+* ⚡ Computer Science and Software Engineering major  
 * ⚡ Programming everyday  
 
 
